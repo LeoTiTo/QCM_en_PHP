@@ -48,7 +48,10 @@ Un projet d'application de **Questionnaire à Choix Multiples (QCM)** développ�
 
 ## 📸 Aperçu
 
-*(Ajoutez ici des captures d'écran de l'interface utilisateur une fois disponible.)*
+![image](https://github.com/user-attachments/assets/b693e9bd-5b1e-468c-b5ae-98561d18522a)
+![image](https://github.com/user-attachments/assets/c259ba57-9652-4fdf-9d34-626feaceb611)
+![image](https://github.com/user-attachments/assets/883a4f5b-7344-4c4f-9cd7-6ed7d4064dbb)
+
 
 ---
 
